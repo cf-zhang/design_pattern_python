@@ -52,30 +52,68 @@
 
 这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。	
 
-### [适配器模式（Adapter Pattern）]()
+### [适配器模式（Adapter Pattern）](https://www.runoob.com/design-pattern/adapter-pattern.html)
 
-### [桥接模式（Bridge Pattern）]()
+[adapter_pattern.py](./adapter_pattern.py)
 
-### [过滤器模式（Filter、Criteria Pattern）]()
+![adapter](./images/adaptor.png)
 
-### [组合模式（Composite Pattern）]()
+### [桥接模式（Bridge Pattern）](https://www.runoob.com/design-pattern/bridge-pattern.html)
 
-### [装饰器模式（Decorator Pattern）]()
+[bridge_pattern.py](./bridge_pattern.py)
 
-### [外观模式（Facade Pattern）]()
+![bridge pattern](./images/bridge.svg)
 
-### [享元模式（Flyweight Pattern）]()
+### [过滤器模式（Filter、Criteria Pattern）](https://www.runoob.com/design-pattern/filter-pattern.html)
 
-### [代理模式（Proxy Pattern）]()
+[filter_pattern.py](./filter_pattern.py)
+
+![filter pattern](./images/20230510-filter.svg)
+
+### [组合模式（Composite Pattern）](https://www.runoob.com/design-pattern/composite-pattern.html)
+
+[composite_pattern.py](./composite_pattern.py)
+
+![composite pattern](./images/20210817-composite-composite.svg)
+
+### [装饰器模式（Decorator Pattern）](https://www.runoob.com/design-pattern/decorator-pattern.html)
+
+[decorator_pattern.py](./decorator_pattern.py)
+
+![decorator pattern](./images/20210420-decorator-1-decorator-decorator.svg)
+
+### [外观模式（Facade Pattern）](https://www.runoob.com/design-pattern/facade-pattern.html)
+
+[facade_pattern.py](./facade_pattern.py)
+
+![facade pattern](./images/20201015-facade.svg)
+
+### [享元模式（Flyweight Pattern）](https://www.runoob.com/design-pattern/flyweight-pattern.html)
+
+[flyweight_pattern.py](./flyweight_pattern.py)
+
+![flyweight pattern](./images/20201015-fiyweight.svg)
+
+### [代理模式（Proxy Pattern）](https://www.runoob.com/design-pattern/proxy-pattern.html)
+
+[proxy_pattern.py](./proxy_pattern.py)
+
+![proxy pattern](./images/20211025-proxy.svg)
 
 ## 行为型模式
-这些设计模式特别关注对象之间的通信。	
+这些设计模式特别关注对象之间的通信。
 
 ### [责任链模式（Chain of Responsibility Pattern）]()
 
+[chain_of_responsibility_pattern.py](./chain_of_responsibility_pattern.py)
+
 ### [命令模式（Command Pattern）]()
 
+[command_pattern.py](./command_pattern.py)
+
 ### [解释器模式（Interpreter Pattern）]()
+
+[interpreter_pattern.py](./interpreter_pattern.py)
 
 ### [迭代器模式（Iterator Pattern）]()
 
