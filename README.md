@@ -1,5 +1,9 @@
+
 # design_pattern_python
 设计模式-python， python design pattern,基于菜鸟教程的设计模式java实现进行了python重写 
+
+[TOC]
+
 ## 写在前面
 
 [菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html) 中对常用的设计模式进行了汇总，实现上使用的是java。在本仓库里面对所有的教程涉及到的代码用python进行了重写，同样也有C++版本的实现在另一个仓库进行了管理
@@ -32,14 +36,17 @@
 ![singleton_pattern](./images/singleton_pattern.jpg)
 
 
-### [建造者模式（Builder Pattern）]()
+### [建造者模式（Builder Pattern）](https://www.runoob.com/design-pattern/builder-pattern.html)
 
-[]()
+[build_pattern.py](./builder_pattern.py)
 
-![]()
+![build_pattern](./images/build_pattern.svg)
 
-### [原型模式（Prototype Pattern）]()
+### [原型模式（Prototype Pattern）](https://www.runoob.com/design-pattern/prototype-pattern.html)
 
+[prototype_pattern.py](./prototype_pattern.py)
+
+![prototype pattern](./images/prototype-pattern.png)
 
 ## 结构型模式
 
