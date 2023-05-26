@@ -2,7 +2,47 @@
 # design_pattern_python
 设计模式-python， python design pattern,基于菜鸟教程的设计模式java实现进行了python重写 
 
-[TOC]
+- [design\_pattern\_python](#design_pattern_python)
+  - [写在前面](#写在前面)
+  - [设计模式简介](#设计模式简介)
+  - [创建型模式](#创建型模式)
+    - [工厂模式（Factory Pattern）](#工厂模式factory-pattern)
+    - [抽象工厂模式（Abstract Factory Pattern）](#抽象工厂模式abstract-factory-pattern)
+    - [单例模式（Singleton Pattern）](#单例模式singleton-pattern)
+    - [建造者模式（Builder Pattern）](#建造者模式builder-pattern)
+    - [原型模式（Prototype Pattern）](#原型模式prototype-pattern)
+  - [结构型模式](#结构型模式)
+    - [适配器模式（Adapter Pattern）](#适配器模式adapter-pattern)
+    - [桥接模式（Bridge Pattern）](#桥接模式bridge-pattern)
+    - [过滤器模式（Filter、Criteria Pattern）](#过滤器模式filtercriteria-pattern)
+    - [组合模式（Composite Pattern）](#组合模式composite-pattern)
+    - [装饰器模式（Decorator Pattern）](#装饰器模式decorator-pattern)
+    - [外观模式（Facade Pattern）](#外观模式facade-pattern)
+    - [享元模式（Flyweight Pattern）](#享元模式flyweight-pattern)
+    - [代理模式（Proxy Pattern）](#代理模式proxy-pattern)
+  - [行为型模式](#行为型模式)
+    - [责任链模式（Chain of Responsibility Pattern）](#责任链模式chain-of-responsibility-pattern)
+    - [命令模式（Command Pattern）](#命令模式command-pattern)
+    - [解释器模式（Interpreter Pattern）](#解释器模式interpreter-pattern)
+    - [迭代器模式（Iterator Pattern）](#迭代器模式iterator-pattern)
+    - [中介者模式（Mediator Pattern）](#中介者模式mediator-pattern)
+    - [备忘录模式（Memento Pattern）](#备忘录模式memento-pattern)
+    - [观察者模式（Observer Pattern）](#观察者模式observer-pattern)
+    - [状态模式（State Pattern）](#状态模式state-pattern)
+    - [空对象模式（Null Object Pattern）](#空对象模式null-object-pattern)
+    - [策略模式（Strategy Pattern）](#策略模式strategy-pattern)
+    - [模板模式（Template Pattern）](#模板模式template-pattern)
+    - [访问者模式（Visitor Pattern）](#访问者模式visitor-pattern)
+  - [J2EE 模式](#j2ee-模式)
+    - [MVC 模式（MVC Pattern）](#mvc-模式mvc-pattern)
+    - [业务代表模式（Business Delegate Pattern）](#业务代表模式business-delegate-pattern)
+    - [组合实体模式（Composite Entity Pattern）](#组合实体模式composite-entity-pattern)
+    - [数据访问对象模式（Data Access Object Pattern）](#数据访问对象模式data-access-object-pattern)
+    - [前端控制器模式（Front Controller Pattern）](#前端控制器模式front-controller-pattern)
+    - [拦截过滤器模式（Intercepting Filter Pattern）](#拦截过滤器模式intercepting-filter-pattern)
+    - [服务定位器模式（Service Locator Pattern）](#服务定位器模式service-locator-pattern)
+    - [传输对象模式（Transfer Object Pattern）](#传输对象模式transfer-object-pattern)
+
 
 ## 写在前面
 
@@ -167,35 +207,35 @@
 
 这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。	
 
-## [MVC 模式（MVC Pattern）]()
+### [MVC 模式（MVC Pattern）]()
 
 [mvc_pattern.py](./mvc_pattern.py)
 
-## [业务代表模式（Business Delegate Pattern）]()
+### [业务代表模式（Business Delegate Pattern）]()
 
 [business_delegate_pattern.py](./business_delegate_pattern.py)
 
-## [组合实体模式（Composite Entity Pattern）]()
+### [组合实体模式（Composite Entity Pattern）]()
 
 [composite_entity_pattern.py](./composite_entity_pattern.py)
 
-## [数据访问对象模式（Data Access Object Pattern）]()
+### [数据访问对象模式（Data Access Object Pattern）]()
 
 [data_access_object_pattern.py](./data_access_object_pattern.py)
 
-## [前端控制器模式（Front Controller Pattern）]()
+### [前端控制器模式（Front Controller Pattern）]()
 
 [front_controller_pattern.py](./front_controller_pattern.py)
 
-## [拦截过滤器模式（Intercepting Filter Pattern）]()
+### [拦截过滤器模式（Intercepting Filter Pattern）]()
 
 [intercepting_filter_pattern.py](./intercepting_filter_pattern.py)
 
-## [服务定位器模式（Service Locator Pattern）]()
+### [服务定位器模式（Service Locator Pattern）]()
 
 [service_locator_pattern.py](./service_locator_pattern.py)
 
-## [传输对象模式（Transfer Object Pattern）]()
+### [传输对象模式（Transfer Object Pattern）]()
 
 [transfer_object_pattern.py](./transfer_object_pattern.py)
 
