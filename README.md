@@ -103,35 +103,65 @@
 ## 行为型模式
 这些设计模式特别关注对象之间的通信。
 
-### [责任链模式（Chain of Responsibility Pattern）]()
+### [责任链模式（Chain of Responsibility Pattern）](https://www.runoob.com/design-pattern/chain-of-responsibility-pattern.html)
 
 [chain_of_responsibility_pattern.py](./chain_of_responsibility_pattern.py)
 
-### [命令模式（Command Pattern）]()
+![chain of responsibility pattern](./images/2021-chain-of-responsibility.svg)
+
+### [命令模式（Command Pattern）](https://www.runoob.com/design-pattern/command-pattern.html)
 
 [command_pattern.py](./command_pattern.py)
 
-### [解释器模式（Interpreter Pattern）]()
+![command pattern](./images/20220427-command-1-command-1.svg)
+
+### [解释器模式（Interpreter Pattern）](https://www.runoob.com/design-pattern/interpreter-pattern.html)
 
 [interpreter_pattern.py](./interpreter_pattern.py)
 
-### [迭代器模式（Iterator Pattern）]()
+![interpreter pattern](./images/interpreter_pattern_uml_diagram.jpg)
 
-### [中介者模式（Mediator Pattern）]()
+### [迭代器模式（Iterator Pattern）](https://www.runoob.com/design-pattern/iterator-pattern.html)
+
+[iterator_patter.py](./iterator_pattern.py)
+
+![iterator_pattern](./images/202107-23-iterator-pattern.png)
+
+[iterator_pattern.py](./iterator_pattern.py)
+
+### [中介者模式（Mediator Pattern）](https://www.runoob.com/design-pattern/mediator-pattern.html)
+
+[mediator_pattern.py](mediator_pattern.py)
+
+![mediator pattern](./images/mediator_pattern_uml_diagram.jpg)
 
 ### [备忘录模式（Memento Pattern）]()
 
+[memento_pattern.py](./memento_pattern.py)
+
 ### [观察者模式（Observer Pattern）]()
+
+[observer_pattern.py](observer_pattern.py)
 
 ### [状态模式（State Pattern）]()
 
+[state_pattern.py](./state_pattern.py)
+
 ### [空对象模式（Null Object Pattern）]()
+
+[null_object_pattern.py](null_object_pattern.py)
 
 ### [策略模式（Strategy Pattern）]()
 
+[strategy_pattern.py](./strategy_pattern.py)
+
 ### [模板模式（Template Pattern）]()
 
+[template_pattern.py](./template_pattern.py)
+
 ### [访问者模式（Visitor Pattern）]()
+
+[visitor_pattern.py](./visitor_pattern.py)
 
 ## J2EE 模式
 
@@ -139,18 +169,34 @@
 
 ## [MVC 模式（MVC Pattern）]()
 
+[mvc_pattern.py](./mvc_pattern.py)
+
 ## [业务代表模式（Business Delegate Pattern）]()
+
+[business_delegate_pattern.py](./business_delegate_pattern.py)
 
 ## [组合实体模式（Composite Entity Pattern）]()
 
+[composite_entity_pattern.py](./composite_entity_pattern.py)
+
 ## [数据访问对象模式（Data Access Object Pattern）]()
+
+[data_access_object_pattern.py](./data_access_object_pattern.py)
 
 ## [前端控制器模式（Front Controller Pattern）]()
 
+[front_controller_pattern.py](./front_controller_pattern.py)
+
 ## [拦截过滤器模式（Intercepting Filter Pattern）]()
+
+[intercepting_filter_pattern.py](./intercepting_filter_pattern.py)
 
 ## [服务定位器模式（Service Locator Pattern）]()
 
+[service_locator_pattern.py](./service_locator_pattern.py)
+
 ## [传输对象模式（Transfer Object Pattern）]()
+
+[transfer_object_pattern.py](./transfer_object_pattern.py)
 
 
